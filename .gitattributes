@@ -1,1 +1,7 @@
 * text=auto
+
+lib/*.h linguist-documentation
+lib/*.cc linguist-documentation
+lib/*.i linguist-documentation
+
+compilete_dev.py linguist-documentation
