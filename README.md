@@ -1,6 +1,3 @@
-# installer V 3.2
-Img:
-![Alt text](1.png)
+# security_hub installer template
 
-compilation command 
-g++ -std=c++17 -o main.exe main.cpp lib/httplib.cc src/server.cpp src/config.cpp src/html.cpp -lws2_32 -lole32 -lversion -lshlwapi
+![Alt text](1.jpg)

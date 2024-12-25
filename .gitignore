@@ -1,1 +1,15 @@
-main.exe
+app_installer/main.exe
+
+server/register_and_data/config.json
+
+app_back_end/head.exe
+auto_update/head.exe
+
+.sorse/core_sorse/shell_web_NM2/build
+.sorse/core_sorse/shell_web_NM2/dist
+
+.sorse/sorse_lib/packages_wifi/obj
+.sorse/sorse_lib/packages_wifi/bin
+
+.sorse/sorse_lib/aes_encryption/target
+.sorse/core_sorse/shell_web_NM3/bin
